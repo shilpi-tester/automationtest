@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="162832" started-at="2020-09-25T16:47:34 IST" finished-at="2020-09-25T16:50:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="162832" started-at="2020-09-25T16:47:34 IST" finished-at="2020-09-25T16:50:17 IST">
+      <class name="pages.Homepageafterlogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:pages.Homepageafterlogin@305fd85d]" name="setup" is-config="true" duration-ms="7294" started-at="2020-09-25T16:47:34 IST" finished-at="2020-09-25T16:47:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:pages.Homepageafterlogin@305fd85d]" name="Login" duration-ms="25200" started-at="2020-09-25T16:47:42 IST" finished-at="2020-09-25T16:48:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Wait()[pri:1, instance:pages.Homepageafterlogin@305fd85d]" name="Wait" duration-ms="5015" started-at="2020-09-25T16:48:07 IST" finished-at="2020-09-25T16:48:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wait -->
+        <test-method status="PASS" signature="HoveroverDressesandcclick()[pri:2, instance:pages.Homepageafterlogin@305fd85d]" name="HoveroverDressesandcclick" duration-ms="6105" started-at="2020-09-25T16:48:12 IST" finished-at="2020-09-25T16:48:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HoveroverDressesandcclick -->
+        <test-method status="PASS" signature="Changeviesmodetolist()[pri:3, instance:pages.Homepageafterlogin@305fd85d]" name="Changeviesmodetolist" duration-ms="288" started-at="2020-09-25T16:48:18 IST" finished-at="2020-09-25T16:48:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Changeviesmodetolist -->
+        <test-method status="PASS" signature="Verifications()[pri:4, instance:pages.Homepageafterlogin@305fd85d]" name="Verifications" duration-ms="516" started-at="2020-09-25T16:48:18 IST" finished-at="2020-09-25T16:48:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifications -->
+        <test-method status="PASS" signature="Quickview()[pri:5, instance:pages.Homepageafterlogin@305fd85d]" name="Quickview" duration-ms="17548" started-at="2020-09-25T16:48:19 IST" finished-at="2020-09-25T16:48:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quickview -->
+        <test-method status="PASS" signature="share()[pri:6, instance:pages.Homepageafterlogin@305fd85d]" name="share" duration-ms="22824" started-at="2020-09-25T16:48:36 IST" finished-at="2020-09-25T16:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- share -->
+        <test-method status="PASS" signature="SelectQnt()[pri:7, instance:pages.Homepageafterlogin@305fd85d]" name="SelectQnt" duration-ms="2275" started-at="2020-09-25T16:48:59 IST" finished-at="2020-09-25T16:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectQnt -->
+        <test-method status="PASS" signature="addtowhishlist()[pri:8, instance:pages.Homepageafterlogin@305fd85d]" name="addtowhishlist" duration-ms="2568" started-at="2020-09-25T16:49:01 IST" finished-at="2020-09-25T16:49:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtowhishlist -->
+        <test-method status="PASS" signature="addtocart()[pri:9, instance:pages.Homepageafterlogin@305fd85d]" name="addtocart" duration-ms="5689" started-at="2020-09-25T16:49:04 IST" finished-at="2020-09-25T16:49:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method status="PASS" signature="checkout()[pri:10, instance:pages.Homepageafterlogin@305fd85d]" name="checkout" duration-ms="51419" started-at="2020-09-25T16:49:10 IST" finished-at="2020-09-25T16:50:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="viewmycustomeraccount()[pri:10, instance:pages.Homepageafterlogin@305fd85d]" name="viewmycustomeraccount" duration-ms="5903" started-at="2020-09-25T16:50:01 IST" finished-at="2020-09-25T16:50:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewmycustomeraccount -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pages.Homepageafterlogin@305fd85d]" name="teardown" is-config="true" duration-ms="10002" started-at="2020-09-25T16:50:07 IST" finished-at="2020-09-25T16:50:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pages.Homepageafterlogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
